@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: cef5f24e2d9074b7eb111002b916c88c
+timeCreated: 1509266870
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: building
+    100004: Camera
+    100006: chalkboard
+    100008: Circle
+    100010: Circle.001
+    100012: Cube.001
+    100014: Cube.002
+    100016: Door
+    100018: fluorecente
+    100020: meatal Chair
+    100022: meatal Chair.001
+    100024: meatal Chair.002
+    100026: meatal Chair.003
+    100028: meatal Chair.004
+    100030: meatal Chair.005
+    100032: meatal Chair.006
+    100034: meatal Chair.007
+    100036: meatal Chair.008
+    100038: meatal Chair.009
+    100040: meatal Chair.010
+    100042: meatal Chair.011
+    100044: meatal Chair.012
+    100046: meatal Chair.013
+    100048: meatal Chair.014
+    100050: meatal Chair.015
+    100052: meatal Chair.016
+    100054: meatal Chair.017
+    100056: meatal Chair.018
+    100058: meatal Chair.019
+    100060: meatal Chair.020
+    100062: meatal Chair.021
+    100064: meatal Chair.022
+    100066: meatal Chair.023
+    100068: metal Chair
+    100070: metal Chair.001
+    100072: metal Chair.002
+    100074: metal Chair.003
+    100076: metal Chair.004
+    100078: metal Chair.005
+    100080: metal Chair.006
+    100082: metal Chair.007
+    100084: metal Chair.008
+    100086: metal Chair.009
+    100088: metal Chair.010
+    100090: metal Chair.011
+    100092: metal Chair.012
+    100094: Plane
+    100096: Plane.001
+    100098: Plane.002
+    100100: Plane.003
+    100102: techo
+    100104: window
+    100106: window center
+    100108: window.001
+    100110: window.002
+    100112: wooden Chair
+    100114: wooden Chair.001
+    100116: wooden Chair.002
+    100118: wooden Chair.003
+    100120: wooden Chair.004
+    100122: wooden Chair.005
+    400000: //RootNode
+    400002: building
+    400004: Camera
+    400006: chalkboard
+    400008: Circle
+    400010: Circle.001
+    400012: Cube.001
+    400014: Cube.002
+    400016: Door
+    400018: fluorecente
+    400020: meatal Chair
+    400022: meatal Chair.001
+    400024: meatal Chair.002
+    400026: meatal Chair.003
+    400028: meatal Chair.004
+    400030: meatal Chair.005
+    400032: meatal Chair.006
+    400034: meatal Chair.007
+    400036: meatal Chair.008
+    400038: meatal Chair.009
+    400040: meatal Chair.010
+    400042: meatal Chair.011
+    400044: meatal Chair.012
+    400046: meatal Chair.013
+    400048: meatal Chair.014
+    400050: meatal Chair.015
+    400052: meatal Chair.016
+    400054: meatal Chair.017
+    400056: meatal Chair.018
+    400058: meatal Chair.019
+    400060: meatal Chair.020
+    400062: meatal Chair.021
+    400064: meatal Chair.022
+    400066: meatal Chair.023
+    400068: metal Chair
+    400070: metal Chair.001
+    400072: metal Chair.002
+    400074: metal Chair.003
+    400076: metal Chair.004
+    400078: metal Chair.005
+    400080: metal Chair.006
+    400082: metal Chair.007
+    400084: metal Chair.008
+    400086: metal Chair.009
+    400088: metal Chair.010
+    400090: metal Chair.011
+    400092: metal Chair.012
+    400094: Plane
+    400096: Plane.001
+    400098: Plane.002
+    400100: Plane.003
+    400102: techo
+    400104: window
+    400106: window center
+    400108: window.001
+    400110: window.002
+    400112: wooden Chair
+    400114: wooden Chair.001
+    400116: wooden Chair.002
+    400118: wooden Chair.003
+    400120: wooden Chair.004
+    400122: wooden Chair.005
+    2000000: Camera
+    2300000: building
+    2300002: chalkboard
+    2300004: Circle
+    2300006: Circle.001
+    2300008: Cube.001
+    2300010: Cube.002
+    2300012: Door
+    2300014: fluorecente
+    2300016: meatal Chair
+    2300018: meatal Chair.001
+    2300020: meatal Chair.002
+    2300022: meatal Chair.003
+    2300024: meatal Chair.004
+    2300026: meatal Chair.005
+    2300028: meatal Chair.006
+    2300030: meatal Chair.007
+    2300032: meatal Chair.008
+    2300034: meatal Chair.009
+    2300036: meatal Chair.010
+    2300038: meatal Chair.011
+    2300040: meatal Chair.012
+    2300042: meatal Chair.013
+    2300044: meatal Chair.014
+    2300046: meatal Chair.015
+    2300048: meatal Chair.016
+    2300050: meatal Chair.017
+    2300052: meatal Chair.018
+    2300054: meatal Chair.019
+    2300056: meatal Chair.020
+    2300058: meatal Chair.021
+    2300060: meatal Chair.022
+    2300062: meatal Chair.023
+    2300064: metal Chair
+    2300066: metal Chair.001
+    2300068: metal Chair.002
+    2300070: metal Chair.003
+    2300072: metal Chair.004
+    2300074: metal Chair.005
+    2300076: metal Chair.006
+    2300078: metal Chair.007
+    2300080: metal Chair.008
+    2300082: metal Chair.009
+    2300084: metal Chair.010
+    2300086: metal Chair.011
+    2300088: metal Chair.012
+    2300090: Plane
+    2300092: Plane.001
+    2300094: Plane.002
+    2300096: Plane.003
+    2300098: techo
+    2300100: window
+    2300102: window center
+    2300104: window.001
+    2300106: window.002
+    2300108: wooden Chair
+    2300110: wooden Chair.001
+    2300112: wooden Chair.002
+    2300114: wooden Chair.003
+    2300116: wooden Chair.004
+    2300118: wooden Chair.005
+    3300000: building
+    3300002: chalkboard
+    3300004: Circle
+    3300006: Circle.001
+    3300008: Cube.001
+    3300010: Cube.002
+    3300012: Door
+    3300014: fluorecente
+    3300016: meatal Chair
+    3300018: meatal Chair.001
+    3300020: meatal Chair.002
+    3300022: meatal Chair.003
+    3300024: meatal Chair.004
+    3300026: meatal Chair.005
+    3300028: meatal Chair.006
+    3300030: meatal Chair.007
+    3300032: meatal Chair.008
+    3300034: meatal Chair.009
+    3300036: meatal Chair.010
+    3300038: meatal Chair.011
+    3300040: meatal Chair.012
+    3300042: meatal Chair.013
+    3300044: meatal Chair.014
+    3300046: meatal Chair.015
+    3300048: meatal Chair.016
+    3300050: meatal Chair.017
+    3300052: meatal Chair.018
+    3300054: meatal Chair.019
+    3300056: meatal Chair.020
+    3300058: meatal Chair.021
+    3300060: meatal Chair.022
+    3300062: meatal Chair.023
+    3300064: metal Chair
+    3300066: metal Chair.001
+    3300068: metal Chair.002
+    3300070: metal Chair.003
+    3300072: metal Chair.004
+    3300074: metal Chair.005
+    3300076: metal Chair.006
+    3300078: metal Chair.007
+    3300080: metal Chair.008
+    3300082: metal Chair.009
+    3300084: metal Chair.010
+    3300086: metal Chair.011
+    3300088: metal Chair.012
+    3300090: Plane
+    3300092: Plane.001
+    3300094: Plane.002
+    3300096: Plane.003
+    3300098: techo
+    3300100: window
+    3300102: window center
+    3300104: window.001
+    3300106: window.002
+    3300108: wooden Chair
+    3300110: wooden Chair.001
+    3300112: wooden Chair.002
+    3300114: wooden Chair.003
+    3300116: wooden Chair.004
+    3300118: wooden Chair.005
+    4300000: Circle.001
+    4300002: Circle
+    4300004: Plane.003
+    4300006: Plane.002
+    4300008: Cube.002
+    4300010: Plane.001
+    4300012: Cube.001
+    4300014: Door
+    4300016: window.002
+    4300018: window.001
+    4300020: window
+    4300022: window center
+    4300024: metal Chair.012
+    4300026: meatal Chair.023
+    4300028: meatal Chair.022
+    4300030: meatal Chair.021
+    4300032: meatal Chair.020
+    4300034: meatal Chair.019
+    4300036: meatal Chair.018
+    4300038: wooden Chair.005
+    4300040: meatal Chair.017
+    4300042: metal Chair.011
+    4300044: metal Chair.010
+    4300046: meatal Chair.016
+    4300048: meatal Chair.015
+    4300050: metal Chair.009
+    4300052: metal Chair.008
+    4300054: meatal Chair.014
+    4300056: metal Chair.007
+    4300058: metal Chair.006
+    4300060: meatal Chair.013
+    4300062: meatal Chair.012
+    4300064: wooden Chair.004
+    4300066: wooden Chair.003
+    4300068: meatal Chair.011
+    4300070: meatal Chair.010
+    4300072: meatal Chair.009
+    4300074: meatal Chair.008
+    4300076: wooden Chair.002
+    4300078: wooden Chair.001
+    4300080: meatal Chair.007
+    4300082: metal Chair.005
+    4300084: metal Chair.004
+    4300086: metal Chair.003
+    4300088: meatal Chair.006
+    4300090: meatal Chair.005
+    4300092: meatal Chair.004
+    4300094: meatal Chair.003
+    4300096: metal Chair.002
+    4300098: meatal Chair.002
+    4300100: metal Chair.001
+    4300102: meatal Chair.001
+    4300104: techo
+    4300106: fluorecente
+    4300108: meatal Chair
+    4300110: chalkboard
+    4300112: metal Chair
+    4300114: wooden Chair
+    4300116: building
+    4300118: Plane
+    7400000: Circle.001|Circle.001Action
+    7400002: Circle.001|CircleAction
+    7400004: Circle|Circle.001Action
+    7400006: Circle|CircleAction
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
